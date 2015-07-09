@@ -9,11 +9,16 @@ Anything pushed after 7-8-15 will adhere to these standards.
 
     snake_case
   
+#### global variables
+
+    ALL_CAPS_SNAKE_CASE
 
 #### functions
 
     headlessCamelCase()
     
-#### class names
+#### class/module names
     
     StudlyCamelCase
+    
+
