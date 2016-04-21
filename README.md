@@ -13,7 +13,7 @@
     
 Functions should be verbs, regular variables should be nouns. 
 
-The only allowable exception is that event listeners/mutation observers may be named `foo_changed()`
+The only allowable exception to the function verb rule is that event listeners/mutation observers may be named `foo_changed()`
 
     
     
