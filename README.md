@@ -1,8 +1,6 @@
 #Style Guide
 
-Anything pushed after 7-8-15 will adhere to these standards.
 
-##Naming Conventions
 
 #### global variables
 
@@ -11,6 +9,12 @@ Anything pushed after 7-8-15 will adhere to these standards.
 #### everything else
 
     snake_case
+    
+    
+Functions should be verbs, regular variables should be nouns. 
+
+The only allowable exception is that event listeners/Mutation observers may be named foo_changed()
+    
     
     
 
